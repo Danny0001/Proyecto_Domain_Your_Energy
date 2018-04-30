@@ -1,0 +1,2 @@
+class Metadato < ApplicationRecord
+end
