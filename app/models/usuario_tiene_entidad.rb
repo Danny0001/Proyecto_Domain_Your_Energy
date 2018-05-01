@@ -1,0 +1,2 @@
+class UsuarioTieneEntidad < ApplicationRecord
+end
